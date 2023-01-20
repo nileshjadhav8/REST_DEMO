@@ -9,8 +9,6 @@ public class HelloWorldBean {
 	}
 	
 	
-	
-	
 	public String getMessage() {
 		return message;
 	}
